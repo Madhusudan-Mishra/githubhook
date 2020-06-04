@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "githubhook"
+    }
+  },
+  "defaultProject": "githubhook",
+  "cli": {
+    "analytics": "bd6da676-74c7-488b-989e-82f26dca267e"
+  }
 }
