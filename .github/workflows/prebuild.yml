@@ -21,7 +21,5 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.16.1'
-    - name: Installing dependencies
     - run: npm install
-    - name: Running Build
     - run: npm run build --if-present
